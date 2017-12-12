@@ -1,0 +1,11 @@
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/bin/Debug/netcoreapp2.0/Singleton.Class.deps.json
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/bin/Debug/netcoreapp2.0/Singleton.Class.runtimeconfig.json
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/bin/Debug/netcoreapp2.0/Singleton.Class.runtimeconfig.dev.json
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/bin/Debug/netcoreapp2.0/Singleton.Class.dll
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/bin/Debug/netcoreapp2.0/Singleton.Class.pdb
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/obj/Debug/netcoreapp2.0/Singleton.Class.csprojResolveAssemblyReference.cache
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/obj/Debug/netcoreapp2.0/Singleton.Class.csproj.CoreCompileInputs.cache
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/obj/Debug/netcoreapp2.0/Singleton.Class.AssemblyInfoInputs.cache
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/obj/Debug/netcoreapp2.0/Singleton.Class.AssemblyInfo.cs
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/obj/Debug/netcoreapp2.0/Singleton.Class.dll
+/Users/carlosbueno/sources/Singleton/Singleton.Class/Singleton.Class/obj/Debug/netcoreapp2.0/Singleton.Class.pdb
